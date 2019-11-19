@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: db-config-map
+  namespace: default
+data:
+  DB_HOST: "srechallengedb.cjj5b6k4ttwb.eu-west-1.rds.amazonaws.com"
+  DB_NAME: "srechallengedb"
+  DB_USER: "root"
+  DB_PASSWORD: "j&-$q!T?RF5L5Xmv"

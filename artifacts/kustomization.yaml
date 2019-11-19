@@ -1,0 +1,5 @@
+resources:
+- efs-provisioner.yaml
+- db-config-map.yaml
+- wordpress.yaml
+- phpmyadmin.yaml
